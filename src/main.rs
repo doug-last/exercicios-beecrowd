@@ -1,5 +1,4 @@
-use std::io;
-mod e1043;
+mod e1047;
 fn main() {
-    e1043::run();
+    e1047::run();
 }
