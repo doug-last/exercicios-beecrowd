@@ -1,4 +1,4 @@
-mod e1116;
+mod e1065;
 fn main() {
-    e1116::run();
+    e1065::run();
 }
