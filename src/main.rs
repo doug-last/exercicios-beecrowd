@@ -1,5 +1,5 @@
-mod e2960;
+mod e1074;
 fn main() {
 
-    e2960::run();
+    e1074::main();
 }
