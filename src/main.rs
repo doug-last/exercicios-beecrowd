@@ -1,5 +1,5 @@
-mod e1074;
+mod e2396;
 fn main() {
 
-    e1074::main();
+    e2396::main();
 }
